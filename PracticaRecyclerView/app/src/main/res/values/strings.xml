@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaRecyclerView</string>
+    <string name="name_str">Name</string>
+    <string name="description_str">Description</string>
+</resources>

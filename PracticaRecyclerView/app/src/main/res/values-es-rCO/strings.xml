@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaRecyclerView</string>
+    <string name="name_str">Nombre</string>
+    <string name="description_str">Descripción</string>
+</resources>
